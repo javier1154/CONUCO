@@ -1,0 +1,38 @@
+a.sidebar-toggle, footer{
+  display: none;
+}
+
+.main-header a span.logo-lg img{
+  float: left;
+  width: 120px;
+  margin-top: 8px;
+}
+
+.content-header h1{
+  margin-left: -10px;
+  margin-top: 40px;
+}
+
+tfoot{
+  background-color: #eee;
+}
+
+table.table.right tr th{
+  text-align: right;
+  color: #000;
+}
+
+.print-top {
+    position: fixed;
+    top: auto;
+    bottom: 16px;
+    right: 16px;
+}
+
+span.logo-lg{
+  margin-top: 6px
+}
+
+table tr th, table tr td{
+  vertical-align: middle !important;
+}
