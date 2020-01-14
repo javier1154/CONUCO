@@ -67,7 +67,7 @@ function conectar_bd_mysql(){
 
     else{
 
-        $seleccion=@mysql_select_db("CENSOP",$conexion);
+        $seleccion=@mysql_select_db("conuco",$conexion);
 
         if(!$seleccion){
         ?>
